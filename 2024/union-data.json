@@ -1,0 +1,376 @@
+{
+	"sportsClub": [
+		{
+			"id": "a-1",
+			"name": "アーチェリー",
+			"description": "アーチェリー部です！現在は毎週火曜日18時～活動しています！初心者も経験者も大歓迎です！是非来てください！",
+			"info": ["content0047"],
+			"twitter": ["hcu_archery"],
+			"instagram": [],
+			"youtube": [],
+			"original": []
+		},
+		{
+			"id": "a-2",
+			"name": "サッカー部",
+			"description": "県リーグや大会などたくさん試合にも参加しています！サッカーを楽しみたい部員・マネージャー大募集です！！",
+			"info": ["c00031689"],
+			"twitter": [],
+			"instagram": ["fc_uminchu"],
+			"youtube": [],
+			"original": []
+		},
+		{
+			"id": "a-3",
+			"name": "ダンス部",
+			"description": "こんにちは！ダンス部ADDICTionです！私たちは火曜木曜の18時半から講堂前にて活動しています！",
+			"info": ["content0032"],
+			"twitter": [],
+			"instagram": ["hcu_addiction"],
+			"youtube": ["hcuaddiction"],
+			"original": []
+		},
+		{
+			"id": "a-4",
+			"name": "探検部",
+			"description": "探検部は自然を探検し、各々の「好き」を探検する。夏は海、冬は山をメインに全てのアウトドアを極めます！",
+			"info": ["c00031275"],
+			"twitter": ["alive46593702"],
+			"instagram": ["hcu_tanken"],
+			"youtube": [],
+			"original": []
+		},
+		{
+			"id": "a-5",
+			"name": "バドミントン部",
+			"description": "バドミントン部です！水・木曜の放課後と、土曜日の昼から練習してます！初心者も経験者も大歓迎です！",
+			"info": ["content0110"],
+			"twitter": [],
+			"instagram": ["hcu_badminton"],
+			"youtube": [],
+			"original": []
+		},
+		{
+			"id": "a-7",
+			"name": "ワンダーフォーゲル部",
+			"description": "ワンダーフォーゲル部では、登山、キャンプ、スノボなどのアウトドア系の活動をしています。",
+			"info": ["content0044"],
+			"twitter": ["hcu_wv"],
+			"instagram": ["hcu__wv"],
+			"youtube": [],
+			"original": []
+		},
+		{
+			"id": "a-8",
+			"name": "弓道部",
+			"description": "経験者の方はもちろん、未経験の方や留学生の方も大歓迎です。<br>私たちと一緒に楽しい時間を過ごしましょう！",
+			"info": ["content0101"],
+			"twitter": ["ichidai9doboo"],
+			"instagram": ["ichidai9doboo"],
+			"youtube": [],
+			"original": []
+		},
+		{
+			"id": "a-9",
+			"name": "硬式テニス部",
+			"description": "僕たちはいつも「楽しさ」を心がけて活動しています。興味のある方はインスタからDMしてきてください！",
+			"info": ["content0024"],
+			"twitter": ["hcutennisclub"],
+			"instagram": ["hiroichi__tennis"],
+			"youtube": [],
+			"original": []
+		},
+		{
+			"id": "a-10",
+			"name": "合気道部",
+			"description": "合氣道は相手を力で倒す武道ではないので、力に自信がなくても始められます！見学お待ちしてます！",
+			"info": ["content0040"],
+			"twitter": ["hcu_aiki"],
+			"instagram": ["hcu_aiki"],
+			"youtube": [],
+			"original": []
+		},
+		{
+			"id": "a-11",
+			"name": "女子バスケットボール部",
+			"description": "私たち女子バスケットボール部は、春と秋にあるリーグ戦に向けて毎週金曜日に体育館で練習をしています。",
+			"info": ["content0054"],
+			"twitter": [],
+			"instagram": ["hcu_girlsbaske"],
+			"youtube": [],
+			"original": []
+		},
+		{
+			"id": "a-12",
+			"name": "男子バスケットボール部",
+			"description": "毎週水、金曜日の19時から21時に活動しています。バスケに興味のある方はぜひ体育館にお越しください！",
+			"info": ["c00031259"],
+			"twitter": [],
+			"instagram": ["ichidaibaskebu"],
+			"youtube": [],
+			"original": []
+		},
+		{
+			"id": "a-13",
+			"name": "男子バレーボール部",
+			"description": "",
+			"info": ["content0043"],
+			"twitter": [],
+			"instagram": [],
+			"youtube": [],
+			"original": []
+		},
+		{
+			"id": "a-14",
+			"name": "軟式野球部",
+			"description": "みんな仲が良く全力でボールを追いかけてます！興味がある方ぜひ一緒に野球しましょう！",
+			"info": ["content0053"],
+			"twitter": [],
+			"instagram": ["hcu_89"],
+			"youtube": [],
+			"original": []
+		},
+		{
+			"id": "a-15",
+			"name": "陸上競技部",
+			"description": "陸上部は大会や記録会、駅伝に向けて日々練習に励んでいます。全力で何かに打ち込みたい人はぜひ陸上部へ！",
+			"info": ["content0046"],
+			"twitter": ["hcu_taf"],
+			"instagram": ["hcu_t0f"],
+			"youtube": [],
+			"original": []
+		},
+		{
+			"id": "a-16",
+			"name": "女子バレーボール部",
+			"description": "",
+			"info": ["c00031329"],
+			"twitter": [],
+			"instagram": [],
+			"youtube": [],
+			"original": []
+		}
+	],
+	"cultureClub": [
+		{
+			"id": "b-1",
+			"name": "CREATIVE",
+			"description": "イラスト・ゲーム・音楽・モデリング等、経験問わず部員募集中です。",
+			"info": ["creative"],
+			"twitter": ["hcu_creative"],
+			"instagram": ["hcu.creative"],
+			"youtube": [],
+			"original": []
+		},{
+			"id": "b-2",
+			"name": "MAC電音",
+			"description": "初心者経験者は関係なし！ジャンル問わず好きな音楽を楽しんでいます！新歓ライブ是非遊びに来てください！",
+			"info": ["content0099", "electronic-music"],
+			"twitter": ["mac_denon"],
+			"instagram": ["HCU_MAC.DENON"],
+			"youtube": ["HCUdenonMAC"],
+			"original": []
+		},{
+			"id": "b-3",
+			"name": "Re.lic",
+			"description": "私たちは国際ボランティアサークルとして、学年や学部関係なく楽しく活動しているのでぜひ来てください！！",
+			"info": ["re-lic"],
+			"twitter": [],
+			"instagram": ["hcu_re.lic"],
+			"youtube": [],
+			"original": []
+		},{
+			"id": "b-4",
+			"name": "S2(平和活動サークル)",
+			"description": "S2では、食を通じた発展途上国への支援金、ハチロクへの参加などの平和活動を行っています。",
+			"info": ["content0041"],
+			"twitter": [],
+			"instagram": [],
+			"youtube": [],
+			"original": []
+		},{
+			"id": "b-5",
+			"name": "Table Game研究会",
+			"description": "ボードゲームやカードゲームを通して、同級生、先輩方と交流することができます。",
+			"info": ["c00031270"],
+			"twitter": ["TGken_"],
+			"instagram": [],
+			"youtube": [],
+			"original": []
+		},{
+			"id": "b-6",
+			"name": "アカペラ部regalo",
+			"description": "初心者大歓迎！私たちと一緒に学内ライブ・学外イベントで皆さんに素敵なregaloをお届けしましょう！",
+			"info": ["content0102"],
+			"twitter": ["regaloHCU"],
+			"instagram": ["regalo_hcu"],
+			"youtube": [],
+			"original": []
+		},{
+			"id": "b-7",
+			"name": "いちだい猫の会",
+			"description": "私たちは大学に住み着いている猫を保護しているサークルです。<br>猫に興味がある方々が集まっています。",
+			"info": ["c00030937"],
+			"twitter": [],
+			"instagram": ["hcu.cats"],
+			"youtube": [],
+			"original": []
+		},{
+			"id": "b-8",
+			"name": "マスコミ研究会",
+			"description": "",
+			"info": ["c00031043"],
+			"twitter": [],
+			"instagram": [],
+			"youtube": [],
+			"original": []
+		},{
+			"id": "b-9",
+			"name": "マンドリン・ギター部",
+			"description": "イタリア発祥の個性的な楽器である『マンドリン』を中心にオーケストラを編成して演奏します！",
+			"info": ["content0050"],
+			"twitter": ["hcu_mandolin"],
+			"instagram": ["hcu_mandolin"],
+			"youtube": [],
+			"original": []
+		},{
+			"id": "b-10",
+			"name": "レゴマス部",
+			"description": "",
+			"info": ["c00031263"],
+			"twitter": [],
+			"instagram": [],
+			"youtube": [],
+			"original": []
+		},{
+			"id": "b-11",
+			"name": "演劇部",
+			"description": "演劇部では個性的なメンバーと楽しく活動しています！少しでも興味があればぜひ見に来てください！",
+			"info": ["content0051"],
+			"twitter": ["GekidanIchigeki"],
+			"instagram": ["hcu_engeki"],
+			"youtube": [],
+			"original": []
+		},{
+			"id": "b-12",
+			"name": "競技かるた",
+			"description": "競技かるた部は毎週火・木曜日に部員12人で活動しています！とても楽しいです！是非遊びに来てください！",
+			"info": ["c00034483"],
+			"twitter": ["HCU_karuta"],
+			"instagram": ["hcu_karuta"],
+			"youtube": [],
+			"original": []
+		},{
+			"id": "b-13",
+			"name": "自主制作映画研究会",
+			"description": "監督、役者、編集、カメラなど。新しい才能を開花させたい方はぜひ自主制作映画研究会へ！",
+			"info": ["content0052"],
+			"twitter": ["eiken_11"],
+			"instagram": ["eiken.ichidai"],
+			"youtube": [],
+			"original": []
+		},{
+			"id": "b-14",
+			"name": "写真部",
+			"description": "",
+			"info": ["c00031333"],
+			"twitter": [],
+			"instagram": [],
+			"youtube": [],
+			"original": []
+		},{
+			"id": "b-15",
+			"name": "上田宗箇流茶道部",
+			"description": "",
+			"info": ["content0037"],
+			"twitter": [],
+			"instagram": [],
+			"youtube": [],
+			"original": []
+		},{
+			"id": "b-16",
+			"name": "吹奏楽部",
+			"description": "吹奏楽部では、仲間と日々楽しく演奏しています！音楽を通して、たくさんの思い出を作りましょう！",
+			"info": ["content0059"],
+			"twitter": ["hcubrass"],
+			"instagram": ["hcubrass"],
+			"youtube": [],
+			"original": []
+		},{
+			"id": "b-17",
+			"name": "茶道部表千家",
+			"description": "年３回の茶会に向け毎週金曜日に稽古に励んでいます。 茶道の基本は勿論、着付けも出来る様になります。",
+			"info": ["content0055"],
+			"twitter": [],
+			"instagram": ["hcu_omotesenke"],
+			"youtube": [],
+			"original": []
+		},{
+			"id": "b-18",
+			"name": "天地創造部",
+			"description": "",
+			"info": ["c00033687"],
+			"twitter": ["tenchisouzou_13"],
+			"instagram": ["tenchi.souzou"],
+			"youtube": ["tenchisouzou"],
+			"original": ["https://tenchisouzou.github.io/"]
+		},{
+			"id": "b-19",
+			"name": "天文研究会",
+			"description": "毎週金曜日18時頃から、体育館横クラブハウスにて星の観測やクイズ大会などの活動を行っています。",
+			"info": ["c00030941"],
+			"twitter": ["astro_hcu"],
+			"instagram": ["hcu_tenmon"],
+			"youtube": [],
+			"original": []
+		}
+	],
+	"others": [
+		{
+			"id": "c-1",
+			"name": "版画部",
+			"description": "",
+			"info": ["c00031248"],
+			"twitter": [],
+			"instagram": [],
+			"youtube": [],
+			"original": []
+		},{
+			"id": "c-2",
+			"name": "Fest-Hiroshima(国際協力)",
+			"description": "FEST-HIROSHIMAです！ 「世界から向こう見ずな支援をなくす」という理念の元、活動しています！",
+			"info": ["fest-hiroshima"],
+			"twitter": ["festhiroshima"],
+			"instagram": ["festhiroshima"],
+			"youtube": [],
+			"original": ["https://fest-hiroshima.wixsite.com/-ngo"]
+		},{
+			"id": "c-3",
+			"name": "ポーカーサークルNuts",
+			"description": "基本的に集会室1.2でやってます。入部希望の方や質問等はインスタｄｍまでお願いします",
+			"info": ["c00041752"],
+			"twitter": [],
+			"instagram": ["hcu_poker"],
+			"youtube": [],
+			"original": []
+		},{
+			"id": "c-4",
+			"name": "学生広報クルーいちレポ",
+			"description": "「いちレポ」は、学生が主体となって広島市立大学の魅力を学内外に発信する広報活動グループです。",
+			"info": [],
+			"twitter": [],
+			"instagram": ["ichidai_ichirepo"],
+			"youtube": ["ichidai_ichirepo"],
+			"original": ["https://www.hiroshima-cu.ac.jp/aboutus/c00018184/"]
+		},{
+			"id": "c-5",
+			"name": "大学祭実行委員会",
+			"description": "大学祭を通してたくさんの出会いと思い出が作れます！誰でも気軽に大祭室へお越しください！！",
+			"info": ["content0062-2"],
+			"twitter": ["ichidai_sai"],
+			"instagram": ["ichidai_sai"],
+			"youtube": [],
+			"original": ["https://ichidaisai.com/"]
+		}
+	]
+}
