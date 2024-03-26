@@ -236,10 +236,10 @@
 		},{
 			"id": "b-10",
 			"name": "レゴマス部",
-			"description": "",
+			"description": "レゴマス部では主に大学祭に向けたカーレースの企画、制作などを行っています。",
 			"info": ["c00031263"],
-			"twitter": [],
-			"instagram": [],
+			"twitter": ["L_Masters14FT"],
+			"instagram": ["L_MASTERS14FT"],
 			"youtube": [],
 			"original": []
 		},{
@@ -272,18 +272,18 @@
 		},{
 			"id": "b-14",
 			"name": "写真部",
-			"description": "",
+			"description": "写真部では撮影会や展示などの活動を行っています。カメラの貸し出しもあります！ぜひ気軽にお越しください♪",
 			"info": ["c00031333"],
-			"twitter": [],
-			"instagram": [],
+			"twitter": ["hcu_photography"],
+			"instagram": ["hcu_photography"],
 			"youtube": [],
 			"original": []
 		},{
 			"id": "b-15",
 			"name": "上田宗箇流茶道部",
-			"description": "",
+			"description": "上田宗箇流茶道部は、広島の武家茶道で、茶道は初めてでも楽しくできますので、ぜひみにきて下さい。",
 			"info": ["content0037"],
-			"twitter": [],
+			"twitter": ["Ichi_ueda"],
 			"instagram": [],
 			"youtube": [],
 			"original": []
@@ -308,7 +308,7 @@
 		},{
 			"id": "b-18",
 			"name": "天地創造部",
-			"description": "",
+			"description": "天地創造部は部員がやりたい企画を行う部活です「やってみたい！」をやってみよう！という理念です。",
 			"info": ["c00033687"],
 			"twitter": ["tenchisouzou_13"],
 			"instagram": ["tenchi.souzou"],
@@ -329,10 +329,10 @@
 		{
 			"id": "c-1",
 			"name": "版画部",
-			"description": "",
+			"description": "版画部は大学祭と成果展の二つを主に活動しています。色々な人に版画の魅力を知ってほしいです。",
 			"info": ["c00031248"],
-			"twitter": [],
-			"instagram": [],
+			"twitter": ["HCU_hanga"],
+			"instagram": ["hanga_hcu"],
 			"youtube": [],
 			"original": []
 		},{
