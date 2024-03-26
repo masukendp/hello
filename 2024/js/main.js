@@ -7,7 +7,7 @@ const unionDataUrl = "union-data.json";
 function composeFor(union) {
     let html = "";
     // 画像
-    html += `<img id=${union.id} src="img/${union.id}.webp" onError="this.src='https://placehold.co/600x400?text=NotFound';" width="100%" loading="lazy" />`;
+    html += `<img class="click-to-zoom" id=${union.id} src="img/${union.id}.webp" onError="this.src='https://placehold.co/600x400?text=NotFound';" width="100%" loading="lazy" />`;
     // 名前
     html += `<span style="display: block; text-align: center; font-weight: bold;">${union.name}</span>`;
     // 短文紹介
@@ -69,5 +69,35 @@ function composePage(json){
 window.addEventListener("load", ()=>{
 	fetch(unionDataUrl)
 		.then( response => response.json())
-		.then( data => composePage(data));
+		.then( data => composePage(data))
+        .then(() => {
+            const overlay = document.querySelector('.overlay');
+            const body = document.body;
+
+            // レイヤーが表示されたときにスクロールを無効化
+            function disableScroll() {
+                body.style.overflow = 'hidden';
+            }
+
+            // レイヤーが非表示になったときにスクロールを有効化
+            function enableScroll() {
+                body.style.overflow = '';
+            }
+
+            // 画像をクリックして拡大表示されるときにスクロールを無効化
+            document.querySelectorAll('.click-to-zoom').forEach(item => {
+                item.addEventListener('click', event => {
+                    const imgSrc = item.getAttribute('src');
+                    document.querySelector('.overlay img').setAttribute('src', imgSrc);
+                    overlay.style.display = 'block';
+                    disableScroll();
+                });
+            });
+
+            // 閉じるボタンをクリックしてレイヤーが非表示になったときにスクロールを有効化
+            document.querySelector('.close-btn').addEventListener('click', () => {
+                overlay.style.display = 'none';
+                enableScroll();
+            });
+        });
 });
