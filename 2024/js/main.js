@@ -66,8 +66,60 @@ function composePage(json){
 	document.getElementById("result").innerHTML = html;
 }
 
+function getCategoryKey(category) {
+    switch (category) {
+        case 'a':
+            return 'sportsClub';
+        case 'b':
+            return 'cultureClub';
+        case 'c':
+            return 'others';
+        default:
+            return null;
+    }
+}
+
+function composeTable(json){
+    const order = [];
+    let html = "";
+
+    const category = ["sportsClub", "cultureClub", "others"];
+    category.forEach((genre)=>{
+        json[genre].forEach((data) => {
+            order.push(data["id"]);
+        });
+    })
+
+    for (let unionId of order) {
+        const [category, index] = unionId.split('-');
+        const categoryKey = getCategoryKey(category);
+
+        const result = json[categoryKey].find(item => item.id === unionId);
+        const name = result.name;
+
+        html += `<a class="item" href="#${unionId}">${name}</a>`
+    }
+    document.getElementById("table").innerHTML = html;
+}
+
 window.addEventListener("load", ()=>{
 	fetch(unionDataUrl)
 		.then( response => response.json())
-		.then( data => composePage(data));
+		.then( (json) => {
+            composeTable(json);
+            composePage(json);
+        })
+        .then(()=>{
+            const items = document.querySelectorAll('.item');
+            items.forEach(item => {
+            const containerWidth = item.clientWidth; // 要素の幅
+            const contentWidth = item.scrollWidth; // コンテンツの幅
+            const fontSize = parseFloat(window.getComputedStyle(item).fontSize); // 現在のフォントサイズ
+            if (contentWidth > containerWidth) {
+                const ratio = containerWidth / contentWidth;
+                const newFontSize = fontSize * ratio;
+                item.style.fontSize = `${newFontSize-1}px`;
+            }
+            });
+        });
 });

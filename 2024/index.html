@@ -20,7 +20,34 @@
         </header>
         <div class="content" style="position: relative;">
             <h1 style="text-align: center">2024年度 クラブ紹介</h1>
+            <div style="max-width: 500px; margin-left: auto; margin-right: auto;">
+                <hr />
+                <h2>目次</h2>
+                <hr />
+                <div id="table" style="display: flex;justify-content: space-between;flex-wrap: wrap;"></div>
+            </div>
             <div style="max-width: 500px; margin-left: auto; margin-right: auto" id="result">データを取得中...</div>
+            <p id="scrollButton" href="#" class="buttonIcon" aria-label="ページ上部へ戻る">
+                <svg class="iconArrowTop" width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M10 6L15.2929 11.2929C15.6834 11.6834 15.6834 12.3166 15.2929 12.7071L10 18" stroke="#27274e" stroke-linecap="round"/>
+                </svg>
+            </p>
+            <script>
+                const scrollButton = document.getElementById('scrollButton');
+                window.addEventListener('scroll', () => {
+                  if (window.scrollY > window.innerHeight * 2) {
+                    scrollButton.classList.add('visible');
+                  } else {
+                    scrollButton.classList.remove('visible');
+                  }
+                });
+                scrollButton.addEventListener('click', () => {
+                  window.scrollTo({
+                    top: window.innerHeight * 2,
+                    behavior: 'smooth'
+                  });
+                });
+              </script>
         </div>
     </body>
 </html>

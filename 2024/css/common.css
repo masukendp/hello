@@ -6,6 +6,10 @@ body {
     background-color: #27274e;
     color: #d9e4ea;
 }
+a {
+    color: inherit;
+    text-decoration: none;
+  }
 
 
 header {
@@ -47,8 +51,13 @@ header {
     max-width: 100vw;
 }
 
-
-
+.item {
+    width: calc(50% - 10px); /* 要素の幅を調整し、余白を設定 */
+    margin-bottom: 20px; /* 下側のマージンを追加して要素を垂直方向に配置 */
+    white-space: nowrap; /* テキストが折り返されないようにする */
+    overflow: hidden; /* 要素からはみ出した部分を非表示にする */
+    text-overflow: ellipsis; /* テキストがはみ出した場合に省略記号で表示する */
+  }
 
 .content {
     margin: 7%;
@@ -99,4 +108,31 @@ a.btn_02:before {
 
 a.btn_02:hover:before {
     border-color: transparent transparent transparent #fff;
+}
+
+#scrollButton {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+#scrollButton.visible {
+    opacity: 1;
+}
+
+.buttonIcon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80px;
+    aspect-ratio: 1;
+    background-color: #d9e4ea;
+    border-radius: 50%;
+}
+
+.iconArrowTop {
+    rotate: 270deg;
 }
