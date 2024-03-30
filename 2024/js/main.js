@@ -14,56 +14,56 @@ function composeFor(union) {
     html += `<span style="display: block; text-align: center">${union.description}</span>`;
     html += "<section>";
     // 各種リンク
-    for (let userName of union.info){
+    for (let userName of union.info) {
         html += `<a href="${infoUrl + userName}" class="btn_link" target="_blank" rel="noopener noreferrer">クラブ・サークル情報</a>`;
     }
-    for (let userName of union.twitter){
+    for (let userName of union.twitter) {
         html += `<a href="${twiiterUrl + userName}" class="btn_link" target="_blank" rel="noopener noreferrer">
                     <i style="font-size: 1.8em"class="fa-brands fa-x-twitter"></i>
                     &nbsp;@${userName}
                 </a>`;
     }
-    for (let userName of union.instagram){
+    for (let userName of union.instagram) {
         html += `<a href="${instagramUrl + userName}" class="btn_link" target="_blank" rel="noopener noreferrer">
                     <i style="font-size: 1.8em" class="fa-brands fa-instagram"></i>
                     &nbsp;@${userName}
                 </a>`;
     }
-    for (let userName of union.youtube){
+    for (let userName of union.youtube) {
         html += `<a href="${youtubeUrl + userName}" class="btn_link" target="_blank" rel="noopener noreferrer">
                     <i style="font-size: 1.8em" class="fa-brands fa-youtube"></i>
                     &nbsp;@${userName}
                 </a>`;
     }
-    for (let url of union.original){
+    for (let url of union.original) {
         html += `<a href="${url}" class="btn_link" target="_blank" rel="noopener noreferrer">Web サイト</a>`;
     }
     html += "</section><hr />"
     return html;
 }
 
-function composePage(json){
-	let html = "";
+function composePage(json) {
+    let html = "";
     html += "<hr />";
     html += "<h2>体育系クラブ 全21団体</h2><hr />";
-    for (let union of json.sportsClub){
+    for (let union of json.sportsClub) {
         html += composeFor(union);
     }
     html += "他6団体";
     html += "<hr />";
     html += "<h2>文化系クラブ 全22団体</h2><hr />";
-    for (let union of json.cultureClub){
+    for (let union of json.cultureClub) {
         html += composeFor(union);
     }
     html += "他3団体";
     html += "<hr />";
     html += "<h2>文化系サークル・その他の団体 全8団体</h2><hr />";
-    for (let union of json.others){
+    for (let union of json.others) {
         html += composeFor(union);
     }
     html += "他3団体";
     html += "<hr />";
-	document.getElementById("result").innerHTML = html;
+    document.getElementById("result").innerHTML = html;
 }
 
 function getCategoryKey(category) {
@@ -79,12 +79,12 @@ function getCategoryKey(category) {
     }
 }
 
-function composeTable(json){
+function composeTable(json) {
     const order = [];
     let html = "";
 
     const category = ["sportsClub", "cultureClub", "others"];
-    category.forEach((genre)=>{
+    category.forEach((genre) => {
         json[genre].forEach((data) => {
             order.push(data["id"]);
         });
@@ -102,24 +102,24 @@ function composeTable(json){
     document.getElementById("table").innerHTML = html;
 }
 
-window.addEventListener("load", ()=>{
-	fetch(unionDataUrl)
-		.then( response => response.json())
-		.then( (json) => {
+window.addEventListener("load", () => {
+    fetch(unionDataUrl)
+        .then(response => response.json())
+        .then((json) => {
             composeTable(json);
             composePage(json);
         })
-        .then(()=>{
+        .then(() => {
             const items = document.querySelectorAll('.item');
             items.forEach(item => {
-            const containerWidth = item.clientWidth; // 要素の幅
-            const contentWidth = item.scrollWidth; // コンテンツの幅
-            const fontSize = parseFloat(window.getComputedStyle(item).fontSize); // 現在のフォントサイズ
-            if (contentWidth > containerWidth) {
-                const ratio = containerWidth / contentWidth;
-                const newFontSize = fontSize * ratio;
-                item.style.fontSize = `${newFontSize-1}px`;
-            }
+                const containerWidth = item.clientWidth; // 要素の幅
+                const contentWidth = item.scrollWidth; // コンテンツの幅
+                const fontSize = parseFloat(window.getComputedStyle(item).fontSize); // 現在のフォントサイズ
+                if (contentWidth > containerWidth) {
+                    const ratio = containerWidth / contentWidth;
+                    const newFontSize = fontSize * ratio;
+                    item.style.fontSize = `${newFontSize - 1}px`;
+                }
             });
         });
 });
