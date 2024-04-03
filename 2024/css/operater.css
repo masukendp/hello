@@ -20,6 +20,10 @@ main {
     margin: 0 auto;
 }
 
+section {
+    margin: 7%;
+}
+
 footer {
     background-color: black;
     color: white;
