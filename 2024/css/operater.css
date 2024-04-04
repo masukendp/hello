@@ -25,7 +25,12 @@ section {
 }
 
 footer {
+    height: 50px;
     background-color: black;
     color: white;
     text-align: center;
+}
+
+a {
+    color:cornflowerblue
 }
