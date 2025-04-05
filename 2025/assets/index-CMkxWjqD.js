@@ -80,14 +80,14 @@ Error generating stack: `+l.message+`
 茶道部表千家に入ると茶道の基本は勿論のこと、着付けも出来る様になります。
 
 茶道というと堅いイメージがあるかと思いますが、飲み会や合宿などもあり部員みんな仲良く楽しんでいます。
-部員一同あなたの入部をお待ちしています。`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0055/"],instagram:[],x_twitter:[],original:[]},{id:"b-2",name:"天地創造部",description:"我々天地創造部はこのような名前で活動していますが、決して怪しい宗教団体などではございません。健全な一般学生の一般学生による一般学生のための団体です。活動内容は部員がやってみたい活動を企画として立案し、それを実行するというものになっています。そのため活動日は特に決まっておらず、主に月１程度の活動となっています。普段活動のない日は部室でおしゃべりをしたり勉強をしたり仲良く過ごしています。昨年度は学内でピザ窯を作成し、手作りピザを焼いたり、毎年恒例年始の餅つきを行ったり、夏には合宿に行ったりと様々な企画を行いました。少しでも気になった方は学生会館二階の部室へお越しください。",info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/c00033687/"],instagram:["tenchi.souzou"],x_twitter:["tenchisouzou_13"],original:["https://tenchisouzou.github.io/"]},{id:"b-3",name:"自主制作映画研究会",description:`こんにちは！私たち「映研」こと自主制作映画研究会は、みんなで協力して映画を作っています。
+部員一同あなたの入部をお待ちしています。`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0055/"],instagram:["hcu_omotesenke"],x_twitter:[],original:[]},{id:"b-2",name:"天地創造部",description:"我々天地創造部はこのような名前で活動していますが、決して怪しい宗教団体などではございません。健全な一般学生の一般学生による一般学生のための団体です。活動内容は部員がやってみたい活動を企画として立案し、それを実行するというものになっています。そのため活動日は特に決まっておらず、主に月１程度の活動となっています。普段活動のない日は部室でおしゃべりをしたり勉強をしたり仲良く過ごしています。昨年度は学内でピザ窯を作成し、手作りピザを焼いたり、毎年恒例年始の餅つきを行ったり、夏には合宿に行ったりと様々な企画を行いました。少しでも気になった方は学生会館二階の部室へお越しください。",info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/c00033687/"],instagram:["tenchi.souzou"],x_twitter:["tenchisouzou_13"],original:["https://tenchisouzou.github.io/"]},{id:"b-3",name:"自主制作映画研究会",description:`こんにちは！私たち「映研」こと自主制作映画研究会は、みんなで協力して映画を作っています。
 映研の活動は大きく分けて３つ。週一の部会、映画の撮影、そして上映会です。
 部会では、脚本製作を行い長期休みなどで撮影を行います。完成作品は大学祭などで公開する予定です。
 映画が好きな人、新しいことに挑戦してみたい人、お菓子が食べたい人、雑談がしたい人、誰でも大歓迎です。
 ぜひお気軽にDM、または部室にお立ち寄りください。部員一同、皆様のお越しをお待ちしております！
 【活動日時】
 ・部会　：　毎週月曜放課後　学生会館２階部室１にて
-・撮影、合宿等　： 土日、長期休暇、放課後`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0052/"],instagram:[],x_twitter:[],original:[]},{id:"b-4",name:"MAC電音部",description:`こんにちは、新入生のみなさん！
+・撮影、合宿等　： 土日、長期休暇、放課後`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0052/"],instagram:["eiken.ichidai"],x_twitter:[],original:[]},{id:"b-4",name:"MAC電音部",description:`こんにちは、新入生のみなさん！
 私たちはMAC電音、音楽好きが集まる軽音学部です！🎸🎵
 
 ギター、ベース、ボーカル、ドラム、キーボードなど、初心者も経験者も大歓迎！音楽を楽しみたい気持ちがあればOKです🙆🏻‍♀️✨
@@ -103,9 +103,9 @@ MAC電音で、音楽と仲間に囲まれた最高の大学生活を送りま�
 主な活動内容は、文化祭や定期演奏会などの演奏会に向けた練習です。演奏会には、全9大学が合同で演奏する大規模なものまであり、一人での演奏はもちろん、アンサンブルや合奏を通して、美しい音の重なりや一体感を感じることができます。
 大学から始めた人が多く、初心者でも大丈夫！楽譜の読み方から丁寧に教えます！
 音楽をやりたい人、初心者経験者問わず、大歓迎です！
-過去の演奏はyoutubeで公開されているので、ぜひご覧下さい。`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0050/"],instagram:[],x_twitter:[],original:[]},{id:"b-6",name:"吹奏楽部",description:`皆さんこんにちは、吹奏楽部です！
+過去の演奏はyoutubeで公開されているので、ぜひご覧下さい。`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0050/"],instagram:["hcu_mandolin"],x_twitter:["hcu_mandolin"],original:[]},{id:"b-6",name:"吹奏楽部",description:`皆さんこんにちは、吹奏楽部です！
 吹奏楽部は、多くの人に音楽を届けるべく日々活動を行っています。年に2回程のコンビニ前での定期演奏会と、年1度の大舞台である大学祭での演奏がメインの活動になります。大学祭では、外部からも多くのお客さんが演奏を聞きにいらっしゃり、一番緊張しますが、一番達成感があって楽しい本番になっています！楽器って難しいんじゃないの…？と思っているそこのあなた、全く心配いりません。大学から楽器を始めた人も多く活動していて、みんな楽しく演奏しています。もちろん、小学校からずっと楽器をやってきたという部員もおり、吹奏楽のことを熱く語ってくれます。音楽が大好きで、大学で音楽がしたいんだ！という皆さん、ぜひ吹奏楽部に遊びに来てください！個性豊かな先輩たちが皆さんをお待ちしています！！`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0059/"],instagram:["hcubrass"],x_twitter:["hcubrass"],original:[]},{id:"b-7",name:"演劇部",description:`演劇部では毎週火曜日の部会と年2回の公演を行っています。各公演前は対面稽古等の公演準備に取り組みます。演劇には役者、音響、照明、大道具小道具、衣装などさまざまな部署があります。それぞれの部署が協力しあって舞台を作ります。自分を変えたい！と思う方はぜひ役者を、舞台に立つのは苦手だけど物作りや機会を触ることが好き！という方は裏方を一緒にやってみませんか？未経験者も経験者も大歓迎です！役者でも裏方でも舞台作りに少しでも興味がある方は下記のX、Instagramにご連絡ください。楽しくて明るい演劇部員とともに部室でお待ちしています！
-部室:学生会館2階`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0051/"],instagram:[],x_twitter:[],original:[]},{id:"b-8",name:"Re.lic",description:`みなさんこんにちは！市大ボランティアサークルのRe.lic（りりっく）です！
+部室:学生会館2階`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0051/"],instagram:["hcu_engeki"],x_twitter:["GekidanIchigeki"],original:["https://www.youtube.com/@gekidan.ichigeki"]},{id:"b-8",name:"Re.lic",description:`みなさんこんにちは！市大ボランティアサークルのRe.lic（りりっく）です！
 現在、38名で楽しく活動しています！
 Re.licには「跡」という意味があり、これまでの活動をより良くしたい、いろんな形で跡を残していきたいという意味が込められています。
  活動内容としては週１回、月曜日のMT、大崎上島を拠点として、空き家の清掃や草むしりなどを行う夏合宿やみかん狩りなど島の方との交流活動を行っています！
@@ -119,7 +119,7 @@ Re.licには「跡」という意味があり、これまでの活動をより�
 自分の興味のある話題について記事を書いたり、
 学生の活動の裏方に興味がある方は気軽に部室まで訪ねてみてください。(プログラミングヤロウ)
 マスコミ研究会 ホームページ: https://masukendp.github.io/
-Twitter!!!!: @masukenDP`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/c00031043/"],instagram:[],x_twitter:[],original:[]},{id:"b-12",name:"写真部",description:`こんにちは！写真部です。
+Twitter!!!!: @masukenDP`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/c00031043/"],instagram:[],x_twitter:["masukenDP"],original:["https://masukendp.github.io/"]},{id:"b-12",name:"写真部",description:`こんにちは！写真部です。
 写真部は、今年で創立5年目となる比較的新しいクラブで、現在は28名が在籍しています。
 
 私たちは、大学祭で展示をしたり学外の写真展に参加したりして、各々のペースで活動しています。
@@ -138,7 +138,7 @@ Twitter!!!!: @masukenDP`,info:["https://www.hiroshima-cu.ac.jp/campuslife/catego
 https://x.com/hcu_photography
 
 ↓Instagram ↓
-https://www.instagram.com/hcu_photography`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/c00031333/"],instagram:[],x_twitter:[],original:[]},{id:"b-13",name:"アカペラ部regalo",description:"こんにちは！アカペラ部Regaloです！私たちは、年4回の学内ライブや外部イベントに向けて日々練習しています！毎週火曜日の放課後に、コンビニ前や部室で部会を行っています！音楽が好きだったり、アカペラに興味がある人なら未経験者でも誰でも大歓迎です！また、部内で運動会や合宿を行ったりとアカペラ以外にもたくさんイベントがあります！学部学年を越えた交流がたくさんできるので、充実した大学生活を送れること間違いなし！私たちと一緒にアカペラを楽しみましょう♪是非、ライブにも遊びに来てくださいね！SNSでたくさん情報を発信しているので、フォローお待ちしております！",info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0102/"],instagram:[],x_twitter:[],original:[]},{id:"b-14",name:"レゴマス部",description:"こんにちは！広島市立大学レゴマス部です。レゴマス部では、部室にあるレゴブロックを自由に使って作品を作ったり…マインドストーム(EV3)という名前の部品を組み合わせてパソコンでプログラムを作って、動く作品を作ることもできます！(プログラミングを知らなくても使い方が分かれば簡単にできます)去年の大学祭ではレゴ作品の展示、マインドストームを使ったラジコンでレース、的当てゲームを来場していただいた方に遊んでいただきました。部員には情報科学部が多いですが、国際学部•芸術学部も大歓迎です！レゴやマインドストームを使った創作に少しでも興味を持ったら是非部室に遊びに来てください！",info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/c00031263/"],instagram:["l_masters14ft"],x_twitter:["L_Master14FT"],original:[]},{id:"b-15",name:"天文研究会",description:`こんにちは！広島市立大学天文研究会です。
+https://www.instagram.com/hcu_photography`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/c00031333/"],instagram:["hcu_photography"],x_twitter:["hcu_photography"],original:[]},{id:"b-13",name:"アカペラ部regalo",description:"こんにちは！アカペラ部Regaloです！私たちは、年4回の学内ライブや外部イベントに向けて日々練習しています！毎週火曜日の放課後に、コンビニ前や部室で部会を行っています！音楽が好きだったり、アカペラに興味がある人なら未経験者でも誰でも大歓迎です！また、部内で運動会や合宿を行ったりとアカペラ以外にもたくさんイベントがあります！学部学年を越えた交流がたくさんできるので、充実した大学生活を送れること間違いなし！私たちと一緒にアカペラを楽しみましょう♪是非、ライブにも遊びに来てくださいね！SNSでたくさん情報を発信しているので、フォローお待ちしております！",info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0102/"],instagram:["regalo_hcu"],x_twitter:["regaloHCU"],original:[]},{id:"b-14",name:"レゴマス部",description:"こんにちは！広島市立大学レゴマス部です。レゴマス部では、部室にあるレゴブロックを自由に使って作品を作ったり…マインドストーム(EV3)という名前の部品を組み合わせてパソコンでプログラムを作って、動く作品を作ることもできます！(プログラミングを知らなくても使い方が分かれば簡単にできます)去年の大学祭ではレゴ作品の展示、マインドストームを使ったラジコンでレース、的当てゲームを来場していただいた方に遊んでいただきました。部員には情報科学部が多いですが、国際学部•芸術学部も大歓迎です！レゴやマインドストームを使った創作に少しでも興味を持ったら是非部室に遊びに来てください！",info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/c00031263/"],instagram:["l_masters14ft"],x_twitter:["L_Master14FT"],original:[]},{id:"b-15",name:"天文研究会",description:`こんにちは！広島市立大学天文研究会です。
 私たちは毎週金曜放課後 18時30分から 体育館横クラブハウス棟部室にて活動を行っています。
 星が好きな天文マニアさん、月を見てゆっくりしたい方、話し相手が欲しい方、ぜひ天文研究会へ来てみてください！お待ちしております！`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/c00030941/"],instagram:[],x_twitter:[],original:[]},{id:"b-16",name:"S2",description:`こんにちは！平和活動サークルS2です。
 私たちは普段、火曜日と木曜日の昼休みに講義棟510で活動しています。
@@ -152,7 +152,7 @@ https://www.instagram.com/hcu_photography`,info:["https://www.hiroshima-cu.ac.jp
 部費は年会費で2000円となっています．
 まずは気軽に学生会館まで足を運んでいただけたらなと思います．
 また，当サークルは現在国際学部・芸術学部の部員がほとんどおらずサークルとしての活動を続けるためピンチな状態です．
-情報学部生はもちろんのこと，国際・芸術の学部生は来ていただけると非常に喜びます！`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/c00031270/"],instagram:[],x_twitter:[],original:[]},{id:"b-18",name:"いちだい猫の会",description:`こんにちは！地域猫保護サークル『いちだい猫の会』です。
+情報学部生はもちろんのこと，国際・芸術の学部生は来ていただけると非常に喜びます！`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/c00031270/"],instagram:[],x_twitter:["TGken_"],original:[]},{id:"b-18",name:"いちだい猫の会",description:`こんにちは！地域猫保護サークル『いちだい猫の会』です。
 
 皆さん、市大には猫がいるってご存じですか？主に芸術学部棟裏の階段付近に居ついています。
 彼・彼女たちは飼い猫ではなく、人間に捨てられ、もしくは野生で生まれ、市大に流れ着いた猫たちです。そんな猫たちを地域猫としてお世話し、人間たちとの橋渡し役を担っているのが、我々『いちだい猫の会』です。
@@ -179,7 +179,7 @@ Instagram:@hcu.cats`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category00
 
 構成は情報の大学院生が多いですが、芸術の学部生も多数在籍しています。
 プログラミングやネットワーク、セキュリティを学びたい情報科学部生だけでなく、Webデザインを学びたい国際・芸術学部生も大歓迎です。
-`,info:["https://www.hiroshima-cu.ac.jp/campuslife/content0110/c00063647/"],instagram:[],x_twitter:[],original:[]},{id:"b-23",name:"Studio Clavis",description:`Studio Clavisは、AIとCGを活用し、最先端の技術を学ぶサークルです。情報科学部の学生はAI系の活動、芸術学部の学生はCG系の活動に参加することが多いですが、Studio Clavisでは所属学部に関係なく、自分の興味のある活動に自由に参加することができます。
+`,info:["https://www.hiroshima-cu.ac.jp/campuslife/content0110/c00063647/"],instagram:[],x_twitter:["hcu_tech"],original:["https://ichipiro.net"]},{id:"b-23",name:"Studio Clavis",description:`Studio Clavisは、AIとCGを活用し、最先端の技術を学ぶサークルです。情報科学部の学生はAI系の活動、芸術学部の学生はCG系の活動に参加することが多いですが、Studio Clavisでは所属学部に関係なく、自分の興味のある活動に自由に参加することができます。
 AI系の活動では、マーケティングやデータ分析など、現代のビジネスで役立つスキルを学び、実践的な技術を身につけることができます。特に国際学部の学生にとっても、グローバルに活用できるスキルを得ることができ、さまざまな視点から学ぶことができます。興味のある分野を深掘りし、自分のペースで成長できる環境が整っています。`,info:["https://www.hiroshima-cu.ac.jp/campuslife/content0110/studio-clavis/"],instagram:["studioclavis"],x_twitter:["H_U_AI_lab"],original:["https://juniper-soap-ae8.notion.site/Studio-Clavis-987c6c8676e54ec6a07b95921794a319?pvs=4"]},{id:"b-24",name:"Fest-Hiroshima",description:`学生国際協力NGO FEST-HIROSHIMA（フェストヒロシマ）
 世界から向こう見ずな支援をなくすという理念のもと、
 春・夏の年2回フィリピンのセブへ渡航し現地で支援活動をしています！
@@ -191,26 +191,26 @@ AI系の活動では、マーケティングやデータ分析など、現代の
 例年、10月の最終週末に開催される大学祭では、カフェや模擬店、ステージでのイベントなど様々な企画を練ったり、企業と連絡を取り合ったりと、大学祭運営にかかわる様々な仕事を行っています！1年生から3年生までみんなで活動していて部員は100人を超える団体です！
 学年を超えて仲が良く、大学生活の先輩たちや同じ学年の仲間たちを作りやすい環境になってます！私たちと一緒に大学祭を作っていきましょう！
 
-少しでも興味がわいた方は是非、学生会館２階、ATM横、集会室3まで気軽にお越しください！待ってます！`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0062/"],instagram:[],x_twitter:[],original:[]},{id:"b-26",name:"いちピア",description:`学校生活、楽しいことばかりではなく、お悩みも・・・そんなとき、一緒に支えることがいちピアの活動です！学生同士がお互いに支え合えるようなあたたかい居場所づくりを一緒にしてみませんか？
+少しでも興味がわいた方は是非、学生会館２階、ATM横、集会室3まで気軽にお越しください！待ってます！`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0062/"],instagram:["ichidai_sai"],x_twitter:["ichidai_sai"],original:["https://ichidaisai.com/"]},{id:"b-26",name:"いちピア",description:`学校生活、楽しいことばかりではなく、お悩みも・・・そんなとき、一緒に支えることがいちピアの活動です！学生同士がお互いに支え合えるようなあたたかい居場所づくりを一緒にしてみませんか？
 いちピアはいちだいピア・サポート活動の愛称です。ピア・サポートとは、お互いに支援するという意味です。ピア・サポーターと呼ばれる、公式に認定されたサポーターと教職員のメンバーで力を合わせて活動しています。お悩み投稿掲示板「りっすんポスト」やラジオ番組「いちピアRadio」の制作、ウォーキングイベント「夕方さんぽ」などの活動を行っています！`,info:["ichi-peer.hiroshima-cu.ac.jp"],instagram:["ichidai_ichipeer"],x_twitter:["HCU_ichipeer"],original:[]},{id:"b-27",name:"学生広報クルーいちレポ",description:`こんにちは！学生広報クルー「いちレポ」です✨
 私たちは、大学公式の広報事業の一環として、学生の視点から本学の魅力を学内外に発信しています。学生が主体となり、広報紙の記事作成、YouTubeやInstagramの投稿、ラジオ放送、さらにはグッズの制作など、様々な活動を行っています♬
 「市大の魅力をもっと多くの人に伝えたい！」「企画力や動画編集のスキルを磨きたい！」「広報活動を通じて新しい友達を作りたい！」そんな想いを持っているあなたにオススメです！
-ぜひ、SNSやホームページをチェックしてみてください♬`,info:["https://www.hiroshima-cu.ac.jp/aboutus/c00018184/"],instagram:["ichidai_ichirepo"],x_twitter:[],original:["https://youtube.com/@ichidai_ichirepo?si=XpQniJL-HIz5KG2b"]}],xf=[{id:"a-1",name:"サッカー部",description:"こんにちは！広島市立大学サッカー部です！毎週土曜日10:00〜練習しています。リーグ戦や大会などにも参加しています！楽しくサッカーをしたい選手・マネージャー大歓迎です！ぜひ友達も連れて練習に来てください！",info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/c00031689/"],instagram:[],x_twitter:[],original:[]},{id:"a-2",name:"女子バレーボール部",description:`女子バレーボール部です！
+ぜひ、SNSやホームページをチェックしてみてください♬`,info:["https://www.hiroshima-cu.ac.jp/aboutus/c00018184/"],instagram:["ichidai_ichirepo"],x_twitter:[],original:["https://youtube.com/@ichidai_ichirepo?si=XpQniJL-HIz5KG2b"]}],xf=[{id:"a-1",name:"サッカー部",description:"こんにちは！広島市立大学サッカー部です！毎週土曜日10:00〜練習しています。リーグ戦や大会などにも参加しています！楽しくサッカーをしたい選手・マネージャー大歓迎です！ぜひ友達も連れて練習に来てください！",info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/c00031689/"],instagram:["fc_uminchu"],x_twitter:[],original:[]},{id:"a-2",name:"女子バレーボール部",description:`女子バレーボール部です！
 1.2年生を中心として頑張っています。
 部員のほとんどが初心者ですが目標に向かって楽しく練習しています！
 初心者・経験者大歓迎です♪
 体験・入部待ってます^^
 面白い仲間たちとバレーボールしましょう！
 マネージャーも大歓迎です。
-インスタ：@hcu_jvb （気軽にご連絡ください）`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/c00031329/"],instagram:[],x_twitter:[],original:[]},{id:"a-3",name:"硬式テニス部",description:`こんにちは！広島市立大学硬式テニス部です！
+インスタ：@hcu_jvb （気軽にご連絡ください）`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/c00031329/"],instagram:["hcu_jvb"],x_twitter:[],original:[]},{id:"a-3",name:"硬式テニス部",description:`こんにちは！広島市立大学硬式テニス部です！
 硬式テニス部は男子12人女子6人の計18人で活動しています。部員のほとんどが大学からテニスを始めた人なので、テニスを今までしたことない人でも楽しめると思います。もちろん経験者の方も大歓迎です！
 
 また、活動自体も時間は決まっていますが基本的に自由であり、月、金に用事がある場合は気軽に休めますし、別の日にやる気があって練習したい場合も自主練としてコートを使えます！そのためテニスを本気で取り組みたい人も、楽しくテニスをしたい人も、自分の思い通りに活動ができます！
 
-少しでもテニスに興味のある方や、体験をしてみたい方は気軽にInstagramのDMで連絡を取ってみてください！皆さんとテニスができる日を待っています`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0024/"],instagram:[],x_twitter:[],original:[]},{id:"a-4",name:"軟式野球部",description:`こんにちは、広島市立大学軟式野球部です!
+少しでもテニスに興味のある方や、体験をしてみたい方は気軽にInstagramのDMで連絡を取ってみてください！皆さんとテニスができる日を待っています`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0024/"],instagram:["hiroichi_tennis"],x_twitter:[],original:[]},{id:"a-4",name:"軟式野球部",description:`こんにちは、広島市立大学軟式野球部です!
 野球部は毎週土曜日午前9時から市大グラウンドで活動しています。
 昨年は春、秋リーグともにあと1勝のところで全国大会を逃したので今年は雪辱を果たすべく、活動に力を入れていきたいです。先輩、後輩の仲もよく、経験者、未経験者ともに溶け込みやすい部活です。真剣かつ楽しい部活であるのが魅力であると自信を持って言えます。今まで野球をしていた人、してみたい人、マネージャーをしてみたい人は気軽に見学に来てみてください。野球を通して得られるものは大学生活での財産になると思います。僕たちと一緒に全力で野球を楽しみましょう。
-皆さんと野球ができる日を待っています!!`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0053/"],instagram:[],x_twitter:[],original:[]},{id:"a-5",name:"男子バスケットボール部",description:"私たち男子バスケットボール部は水曜日と金曜日に活動しています。練習は軽くアップをして試合の時間を長く取るようにしています。経験者でも未経験者でもマネージャーでも大歓迎です！ぜひ練習に来てみてください！",info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/c00031259/"],instagram:[],x_twitter:[],original:[]},{id:"a-6",name:"弓道部",description:`私たちは2024年12月現在、2年生5名、1年生8名で活動しています。
+皆さんと野球ができる日を待っています!!`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0053/"],instagram:["hcu _89"],x_twitter:[],original:[]},{id:"a-5",name:"男子バスケットボール部",description:"私たち男子バスケットボール部は水曜日と金曜日に活動しています。練習は軽くアップをして試合の時間を長く取るようにしています。経験者でも未経験者でもマネージャーでも大歓迎です！ぜひ練習に来てみてください！",info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/c00031259/"],instagram:["ichidaibaskebu"],x_twitter:[],original:[]},{id:"a-6",name:"弓道部",description:`私たちは2024年12月現在、2年生5名、1年生8名で活動しています。
 
 私たちの部員のほとんどは大学で初めて弓道に触れましたが、お互いに成長し合いながら充実した時間を過ごしています。
 
@@ -247,7 +247,7 @@ AI系の活動では、マーケティングやデータ分析など、現代の
 バレーが好き、バレーを楽しみたいという気持ちがあれば大丈夫です！
 一緒にバレーボールを楽しみませんか？
 プレイヤー・マネージャー、誰でも歓迎です！
-気軽にお問い合わせ&お越しください！`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0043/"],instagram:[],x_twitter:[],original:[]},{id:"a-10",name:"陸上競技部",description:"広島市立大学陸上競技部は、週3日クラブハウス上のトラックで練習しています。部員は長距離5人、中距離1人、短距離5人、混成1人、投擲1人、マネージャー5人の計18人で構成されています。練習メニューは選手同士で相談しながら決め、中四国の大会からローカルな大会まで幅広く参加しています。また、夏合宿や1500m牛丼大会、食事会など、部員の親睦を深めるイベントも行っています。趣味で走るのもokで、優しい先輩たちがいるので気軽に参加できます。ぜひ市大陸上部に入部して、一緒に陸上を楽しみましょう！詳しくは、Instagram (@hcu_t0f) をご覧ください。",info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0046/"],instagram:["hcu_t0f"],x_twitter:[],original:[]},{id:"a-11",name:"ワンダーフォーゲル部",description:`こんにちは、広島市立大学ワンダーフォーゲル部です！
+気軽にお問い合わせ&お越しください！`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0043/"],instagram:["hcu_volley"],x_twitter:[],original:[]},{id:"a-10",name:"陸上競技部",description:"広島市立大学陸上競技部は、週3日クラブハウス上のトラックで練習しています。部員は長距離5人、中距離1人、短距離5人、混成1人、投擲1人、マネージャー5人の計18人で構成されています。練習メニューは選手同士で相談しながら決め、中四国の大会からローカルな大会まで幅広く参加しています。また、夏合宿や1500m牛丼大会、食事会など、部員の親睦を深めるイベントも行っています。趣味で走るのもokで、優しい先輩たちがいるので気軽に参加できます。ぜひ市大陸上部に入部して、一緒に陸上を楽しみましょう！詳しくは、Instagram (@hcu_t0f) をご覧ください。",info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0046/"],instagram:["hcu_t0f"],x_twitter:[],original:[]},{id:"a-11",name:"ワンダーフォーゲル部",description:`こんにちは、広島市立大学ワンダーフォーゲル部です！
 
 皆さん、ワンダーフォーゲルとは何なのかご存知でしょうか？ワンダーフォーゲルとは、仲間と協力しながらアウトドア活動を行うという意味があります。私達は、ワンダーフォーゲルの趣旨に則り、アウトドア系の活動を行っています。
 
@@ -257,7 +257,7 @@ AI系の活動では、マーケティングやデータ分析など、現代の
 
 男女、体力の有無に関わらず、どなたでも大歓迎です！私達と一緒に自然を楽しみましょう！
 
-質問や、活動内容について詳しく聞いてみたい方は、気軽にDMしてください！`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0044/"],instagram:[],x_twitter:[],original:[]},{id:"a-12",name:"ダンス部",description:`こんにちは！ダンス部ADDICTionです！
+質問や、活動内容について詳しく聞いてみたい方は、気軽にDMしてください！`,info:["https://www.hiroshima-cu.ac.jp/campuslife/category0003/content0110/content0044/"],instagram:["hcu_wv"],x_twitter:["hcu_wv"],original:[]},{id:"a-12",name:"ダンス部",description:`こんにちは！ダンス部ADDICTionです！
 私たちは毎週火曜日と木曜日の18:30~20:00まで講堂前で活動しています。主に七夕祭や大学祭に向けてみんなで仲良く練習しています^^
 部員の半分以上が大学からダンスを始めているので、初心者さんでも気軽に体験に来てくれたら嬉しいです！もちろん経験者さんも大歓迎です！少しでもダンスに興味がある方、是非一緒に踊りましょう！`,info:["https://www.hiroshima-cu.ac.jp/campuslife/content0032/"],instagram:["hcu_addiction"],x_twitter:[],original:["https://youtube.com/@hcuaddiction?si=KQUMtS77koU9N0eo"]},{id:"a-13",name:"女子バスケットボール部",description:`こんにちは、女子バスケットボール部です！
 毎週水・金曜日の19時頃から、大学の体育館で、男子バスケ部とコートを共有して練習を行っています。学外での活動としては、春(4〜7月)と秋(10～12月)にリーグ戦があり、他大学との試合を行います。
